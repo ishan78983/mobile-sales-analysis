@@ -14,7 +14,7 @@ The project aims to analyze sales performance, customer trends, and revenue dist
 
 ## 📂 Files in Repository
 - `Mobile Sales Data.xlsx` → Raw dataset used for analysis.  
-- `Mobile_Sales_Dashboard.pbix` → Power BI file containing the dashboard.  
+- `Mobile-sales.pbix` → Power BI file containing the dashboard.  
 - `README.md` → Documentation for the project.  
 
 ---
@@ -53,6 +53,3 @@ The project aims to analyze sales performance, customer trends, and revenue dist
 
 ---
 
-## 📜 License
-This project is open-source under the **MIT License**.  
-Feel free to use or modify for learning and research purposes.  
