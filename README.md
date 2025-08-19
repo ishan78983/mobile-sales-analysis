@@ -34,8 +34,7 @@ The project aims to analyze sales performance, customer trends, and revenue dist
 ---
 
 ## 📷 Dashboard Preview
-*(Add a screenshot of your Power BI dashboard here for better presentation)*  
-
+![Image Alt](https://github.com/ishan78983/mobile-sales-analysis/blob/732d8271a72283ac059e3580904aac5d059719ac/Screenshot%202025-08-19%20122905.png)
 ---
 
 ## 📌 How to Use
